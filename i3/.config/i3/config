@@ -186,6 +186,7 @@ bar {
 }
 
 # bindsym $mod+Shift+l exec i3lock
+bindsym $mod+Tab workspace back_and_forth
 
 # Force applications to start in corresponding workspaces
 assign [class="Gnome-terminal"] $ws1
