@@ -1,0 +1,3 @@
+#!/usr/bin/env zsh
+# Open the espanso config file and copy to the correct location
+ansible-vault view ~/.dotfiles/espanso_ubuntu/.config/espanso/match/default.yml >~/.config/espanso/match/default.yml

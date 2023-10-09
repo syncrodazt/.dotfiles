@@ -1,6 +1,6 @@
 #!/usr/bin/env zsh
 if [[ -z $STOW_FOLDERS ]]; then
-  STOW_FOLDERS="nvim,espanso_ubuntu,gitconfig,gitconfig"
+  STOW_FOLDERS="nvim,espanso_mac,karabiner,gitconfig,karabiner"
 fi
 
 if [[ -z $DOTFILES ]]; then
