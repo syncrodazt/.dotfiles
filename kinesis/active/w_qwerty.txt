@@ -1,0 +1,23 @@
+* Basic 1
+[=]>[`]
+[\]>[=]
+[intl-\]>[\]
+[`]>[kpshft]
+[kp-`]>[kpshft]
+[caps]>[escape]
+{rshift}{caps}>{speed5}{caps}
+* Basic - Left Thumb
+[delete]>[lctrl]
+[lctrl]>[lalt]
+[lalt]>[delete]
+* Basic - Right Thumb
+[rwin]>[insert]
+[pup]>[rwin]
+[pdown]>[ralt]
+* Basic - KP
+{kp-r}>{speed5}{-lctrl}{-lalt}{right}{+lctrl}{+lalt}
+{kp-f}>{speed5}{-lctrl}{-lalt}{left}{+lctrl}{+lalt}
+{kp-b}>{speed5}{-lshift}{-lwin}{s}{+lshift}{+lwin}
+{kp-end}>{speed5}{-lctrl}{-lshift}{escape}{+lshift}{+lctrl}
+[kp-bspace]>[space]
+[kp-delete]>[enter]
