@@ -15,9 +15,11 @@
 [pup]>[rwin]
 [pdown]>[ralt]
 * Basic - KP
-{kp-r}>{speed5}{-lctrl}{-lalt}{right}{+lctrl}{+lalt}
-{kp-f}>{speed5}{-lctrl}{-lalt}{left}{+lctrl}{+lalt}
 {kp-b}>{speed5}{-lshift}{-lwin}{s}{+lshift}{+lwin}
 {kp-end}>{speed5}{-lctrl}{-lshift}{escape}{+lshift}{+lctrl}
 [kp-bspace]>[space]
 [kp-delete]>[enter]
+* Sizer
+{kp-r}>{speed5}{-lalt}{-lwin}{right}{+lalt}{+lwin}
+{kp-f}>{speed5}{-lalt}{-lwin}{left}{+lalt}{+lwin}
+{kp-t}>{speed5}{-lctrl}{-lwin}{z}{+lctrl}{+lwin}
